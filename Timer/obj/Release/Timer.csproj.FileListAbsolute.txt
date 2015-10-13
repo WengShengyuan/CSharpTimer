@@ -1,0 +1,9 @@
+C:\Users\ll\documents\visual studio 2013\Projects\Timer\Timer\bin\Release\Timer.exe.config
+C:\Users\ll\documents\visual studio 2013\Projects\Timer\Timer\bin\Release\Timer.exe
+C:\Users\ll\documents\visual studio 2013\Projects\Timer\Timer\bin\Release\Timer.pdb
+C:\Users\ll\documents\visual studio 2013\Projects\Timer\Timer\obj\Release\Timer.Forms.TimerForm.resources
+C:\Users\ll\documents\visual studio 2013\Projects\Timer\Timer\obj\Release\Timer.MainControl.resources
+C:\Users\ll\documents\visual studio 2013\Projects\Timer\Timer\obj\Release\Timer.Properties.Resources.resources
+C:\Users\ll\documents\visual studio 2013\Projects\Timer\Timer\obj\Release\Timer.csproj.GenerateResource.Cache
+C:\Users\ll\documents\visual studio 2013\Projects\Timer\Timer\obj\Release\Timer.exe
+C:\Users\ll\documents\visual studio 2013\Projects\Timer\Timer\obj\Release\Timer.pdb
